@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+redis
+pydantic
+pydantic-settings
+pypdf
+python-multipart
+torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+numpy
+faiss-cpu
+google-generativeai
